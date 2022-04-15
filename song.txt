@@ -5,6 +5,10 @@ on this their chosen battle field
 
 Form the lines
 Shield by shield
+<<<<<<< HEAD
 Side by side
 We're marching into destiny
 -------------------------------
+=======
+
+>>>>>>> a1743797ebd33219ea90acd05b1248b30888ae72
