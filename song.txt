@@ -2,6 +2,7 @@ sword and spear
 wall of shields
 standing strong
 on this their chosen battle field
+<<<<<<< HEAD
 
 Form the lines
 Shield by shield
@@ -12,3 +13,5 @@ We're marching into destiny
 =======
 
 >>>>>>> a1743797ebd33219ea90acd05b1248b30888ae72
+=======
+>>>>>>> parent of c5d843c... finish second part
